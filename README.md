@@ -4,9 +4,21 @@ Code for the numerical experiments of the paper [_New inversion methods for the 
 
 ## How to reproduce the experiments of the paper
 
-From inside the main folder, run the following scripts.
+From inside the main folder, run the following scripts to execute the different experiments.
 
-To obtain an image of the kernel with different values of η
+Parameters in the scripts should correspond to the values used in the paper. For now, changing them requires editing the scripts (in their preamble).
+
+- To obtain an image of the kernel with different values of η
 ```
-matlab kernels.m
+matlab ker.m
+```
+
+- The Tikhonov method (for the single shape case) is obtained with
+```
+matlab Tikho.m
+```
+
+- The Back-and-Forth Nudging algorithm can be executed (in the two shape case) with
+```
+matlab BFN.m
 ```
