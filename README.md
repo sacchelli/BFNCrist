@@ -8,17 +8,17 @@ From inside the main folder, run the following scripts to execute the different 
 
 Parameters in the scripts should correspond to the values used in the paper. For now, changing them requires editing the scripts (in their preamble).
 
-- To obtain an image of the kernel with different values of η
+- To obtain an image of the cumulative distribution functions with different values of η (fig. 4)
 ```
 matlab ker.m
 ```
 
-- The Tikhonov method (for the single shape case) is obtained with
+- The Tikhonov method (for the single shape case) for different values of the regularization parameter δ (fig. 5)
 ```
 matlab Tikho.m
 ```
 
-- The Back-and-Forth Nudging algorithm can be executed (in the two shape case) with
+- Back-and-Forth Nudging algorithm in the two shape case (fig. 7 and 8)
 ```
 matlab BFN.m
 ```
