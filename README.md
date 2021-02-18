@@ -9,17 +9,17 @@ From inside the main folder, run the following scripts to execute the different 
 Parameters in the scripts should correspond to the values used in the paper. For now, changing them requires editing the scripts (in their preamble).
 
 - To obtain an image of the cumulative distribution functions with different values of η (fig. 4)
-```
-matlab ker.m
-```
+	```
+	matlab ker.m
+	```
 
 - The Tikhonov method (for the single shape case) for different values of the regularization parameter δ (fig. 5)
-```
-matlab Tikho.m
-```
+	```
+	matlab Tikho.m
+	```
 
 - Back-and-Forth Nudging algorithm in the two shape case (fig. 7 and 8)
-```
-matlab BFN.m
-```
-If the film option is set to true, running the script will produce a clip of the converging observer that will be stored in the Videos folder.
+	```
+	matlab BFN.m
+	```
+	If the film option is set to true, running the script will produce a clip of the converging observer that will be stored in the Videos folder.
