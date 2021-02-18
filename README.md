@@ -22,3 +22,4 @@ matlab Tikho.m
 ```
 matlab BFN.m
 ```
+If the film option is set to true, running the script will produce a clip of the converging observer that will be stored in the Videos folder.
