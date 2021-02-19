@@ -18,7 +18,7 @@ Parameters in the scripts should correspond to the values used in the paper. For
 	matlab Tikho.m
 	```
 
-- Back-and-Forth Nudging algorithm in the two shape case (fig. 7 and 8)
+- Back and Forth Nudging algorithm in the two shape case (fig. 7 and 8)
 	```
 	matlab BFN.m
 	```
