@@ -23,3 +23,8 @@ Parameters in the scripts should correspond to the values used in the paper. For
 	matlab BFN.m
 	```
 	If the film option is set to true, running the script will produce a clip of the converging observer that will be stored in the Videos folder.
+
+
+<p align="center">
+  <img src="https://github.com/sacchelli/BFNCrist/blob/main/Videos/reconstruction.gif" title="Back and forth nudging observer with two particle shapes">
+</p>
