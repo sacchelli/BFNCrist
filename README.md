@@ -1,6 +1,6 @@
 # BFNCrist
 
-Code for the numerical experiments of the paper [_New inversion methods for the single/multi-shape CLD-to-PSD problem with spheroid particles_](https://arxiv.org/abs/2012.08287) by Lucas Brivadis and Ludovic Sacchelli.
+This page contains codes for the numerical experiments of the paper [_New inversion methods for the single/multi-shape CLD-to-PSD problem with spheroid particles_](https://arxiv.org/abs/2012.08287) by Lucas Brivadis and Ludovic Sacchelli, and their new incarnations from [_Approximate observability and back and forth observer of a PDE model of crystallisation process_](https://arxiv.org/abs/2103.11656).
 
 ## How to reproduce the experiments of the paper
 
